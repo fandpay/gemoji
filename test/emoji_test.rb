@@ -38,6 +38,7 @@ class EmojiTest < TestCase
     assert_equal ["\u{0031}\u{fe0f}\u{20e3}", "\u{0031}\u{20e3}\u{fe0f}"], emoji.unicode_aliases
   end
 
+<<<<<<< HEAD
   test "unicode_aliases doesn't necessarily include form without VARIATION_SELECTOR_16" do
     emoji = Emoji.find_by_unicode("\u{00a9}\u{fe0f}")
     assert_equal ["\u{00a9}\u{fe0f}"], emoji.unicode_aliases
@@ -46,6 +47,11 @@ class EmojiTest < TestCase
   test "unicode_aliases for emoji that have gender variant include form with explicit gender" do
     male_spy = Emoji.find_by_unicode("\u{1f575}\u{fe0f}")
     assert_equal male_spy, Emoji.find_by_unicode("\u{1f575}\u{fe0f}\u{200d}\u{2642}\u{fe0f}")
+=======
+  test "unicode_aliases" do
+    emoji = Emoji.find_by_unicode("\u{2728}")
+    assert_equal ["\u{2728}", "\u{2728}\u{fe0e}", "\u{2728}\u{fe0f}"], emoji.unicode_aliases
+>>>>>>> github/2.0-stable
   end
 
   test "emojis have tags" do

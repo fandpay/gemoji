@@ -72,6 +72,7 @@ module Emoji
   end
 
   private
+<<<<<<< HEAD
     VARIATION_SELECTOR_16 = "\u{fe0f}".freeze
     ZERO_WIDTH_JOINER = "\u{200d}".freeze
     FEMALE_SYMBOL = "\u{2640}".freeze
@@ -80,15 +81,22 @@ module Emoji
     # Chars from Apple's palette which must have VARIATION_SELECTOR_16 to render:
     TEXT_GLYPHS = ["🈷", "🈂", "🅰", "🅱", "🅾", "©", "®", "™", "〰"].freeze
 
+=======
+>>>>>>> github/2.0-stable
     def parse_data_file
       data = File.open(data_file, 'r:UTF-8') { |file| JSON.parse(file.read) }
       data.each do |raw_emoji|
         self.create(nil) do |emoji|
           raw_emoji.fetch('aliases').each { |name| emoji.add_alias(name) }
+<<<<<<< HEAD
           if raw = raw_emoji['emoji']
             unicodes = [raw, raw.sub(VARIATION_SELECTOR_16, '') + VARIATION_SELECTOR_16].uniq
             unicodes.each { |uni| emoji.add_unicode_alias(uni) }
           end
+=======
+          unicodes = Array(raw_emoji['emoji']) + raw_emoji.fetch('unicodes', [])
+          unicodes.each { |uni| emoji.add_unicode_alias(uni) }
+>>>>>>> github/2.0-stable
           raw_emoji.fetch('tags').each { |tag| emoji.add_tag(tag) }
 
           emoji.category = raw_emoji['category']

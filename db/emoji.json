@@ -7223,9 +7223,18 @@
   , "ios_version": "9.1"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🚢"
   , "description": "ship"
   , "category": "Places"
+=======
+    "emoji": "✨"
+  , "unicodes": [
+      "✨︎"
+    , "✨️"
+    ]
+  , "description": "sparkles"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "ship"
     ]
@@ -7441,9 +7450,18 @@
   , "ios_version": "9.1"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🛣"
   , "description": "motorway"
   , "category": "Places"
+=======
+    "emoji": "✊"
+  , "unicodes": [
+      "✊︎"
+    , "✊️"
+    ]
+  , "description": "raised fist"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "motorway"
     ]
@@ -7477,9 +7495,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🌄"
   , "description": "sunrise over mountains"
   , "category": "Places"
+=======
+    "emoji": "✋"
+  , "unicodes": [
+      "✋︎"
+    , "✋️"
+    ]
+  , "description": "raised hand"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "sunrise_over_mountains"
     ]
@@ -9737,9 +9764,17 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "📓"
   , "description": "notebook"
   , "category": "Objects"
+=======
+    "emoji": "⭐️"
+  , "unicodes": [
+      "⭐"
+    ]
+  , "description": "white medium star"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "notebook"
     ]
@@ -9761,9 +9796,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "📒"
   , "description": "ledger"
   , "category": "Objects"
+=======
+    "emoji": "⛅️"
+  , "unicodes": [
+      "⛅"
+    , "⛅︎"
+    ]
+  , "description": "sun behind cloud"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "ledger"
     ]
@@ -9785,9 +9829,17 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "📗"
   , "description": "green book"
   , "category": "Objects"
+=======
+    "emoji": "⚡️"
+  , "unicodes": [
+      "⚡"
+    ]
+  , "description": "high voltage sign"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "green_book"
     ]
@@ -9797,9 +9849,17 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "📘"
   , "description": "blue book"
   , "category": "Objects"
+=======
+    "emoji": "☔️"
+  , "unicodes": [
+      "☔"
+    ]
+  , "description": "umbrella with rain drops"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "blue_book"
     ]
@@ -9821,9 +9881,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "📚"
   , "description": "books"
   , "category": "Objects"
+=======
+    "emoji": "⛄️"
+  , "unicodes": [
+      "⛄"
+    , "⛄︎"
+    ]
+  , "description": "snowman without snow"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "books"
     ]
@@ -10454,9 +10523,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🕎"
   , "description": "menorah"
   , "category": "Symbols"
+=======
+    "emoji": "⏳"
+  , "unicodes": [
+      "⏳︎"
+    , "⏳️"
+    ]
+  , "description": "hourglass with flowing sand"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "menorah"
     ]
@@ -10466,9 +10544,17 @@
   , "ios_version": "9.1"
   }
 , {
+<<<<<<< HEAD
     "emoji": "☯️"
   , "description": "yin yang"
   , "category": "Symbols"
+=======
+    "emoji": "⌛️"
+  , "unicodes": [
+      "⌛"
+    ]
+  , "description": "hourglass"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "yin_yang"
     ]
@@ -10478,9 +10564,18 @@
   , "ios_version": "9.1"
   }
 , {
+<<<<<<< HEAD
     "emoji": "☦️"
   , "description": "orthodox cross"
   , "category": "Symbols"
+=======
+    "emoji": "⏰"
+  , "unicodes": [
+      "⏰︎"
+    , "⏰️"
+    ]
+  , "description": "alarm clock"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "orthodox_cross"
     ]
@@ -10490,9 +10585,17 @@
   , "ios_version": "9.1"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🛐"
   , "description": "place of worship"
   , "category": "Symbols"
+=======
+    "emoji": "⌚️"
+  , "unicodes": [
+      "⌚"
+    ]
+  , "description": "watch"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "place_of_worship"
     ]
@@ -11717,9 +11820,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "📶"
   , "description": "antenna bars"
   , "category": "Symbols"
+=======
+    "emoji": "🀄️"
+  , "unicodes": [
+      "🀄"
+    , "🀄︎"
+    ]
+  , "description": "mahjong tile red dragon"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "signal_strength"
     ]
@@ -11780,9 +11892,17 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🔣"
   , "description": "input symbols"
   , "category": "Symbols"
+=======
+    "emoji": "⚽️"
+  , "unicodes": [
+      "⚽"
+    ]
+  , "description": "soccer ball"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "symbols"
     ]
@@ -11853,9 +11973,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🆕"
   , "description": "NEW button"
   , "category": "Symbols"
+=======
+    "emoji": "⛳️"
+  , "unicodes": [
+      "⛳"
+    , "⛳︎"
+    ]
+  , "description": "flag in hole"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "new"
     ]
@@ -11986,9 +12115,17 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "9️⃣"
   , "description": "keycap: 9"
   , "category": "Symbols"
+=======
+    "emoji": "☕️"
+  , "unicodes": [
+      "☕"
+    ]
+  , "description": "hot beverage"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "nine"
     ]
@@ -12834,9 +12971,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🔲"
   , "description": "black square button"
   , "category": "Symbols"
+=======
+    "emoji": "⛪️"
+  , "unicodes": [
+      "⛪"
+    , "⛪︎"
+    ]
+  , "description": "church"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "black_square_button"
     ]
@@ -12918,9 +13064,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "⬛️"
   , "description": "black large square"
   , "category": "Symbols"
+=======
+    "emoji": "⛺️"
+  , "unicodes": [
+      "⛺"
+    , "⛺︎"
+    ]
+  , "description": "tent"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "black_large_square"
     ]
@@ -13072,9 +13227,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "💭"
   , "description": "thought balloon"
   , "category": "Symbols"
+=======
+    "emoji": "⛲️"
+  , "unicodes": [
+      "⛲"
+    , "⛲︎"
+    ]
+  , "description": "fountain"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "thought_balloon"
     ]
@@ -13109,9 +13273,18 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🀄️"
   , "description": "mahjong red dragon"
   , "category": "Symbols"
+=======
+    "emoji": "⛵️"
+  , "unicodes": [
+      "⛵"
+    , "⛵︎"
+    ]
+  , "description": "sailboat"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "mahjong"
     ]
@@ -13145,9 +13318,17 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "♣️"
   , "description": "club suit"
   , "category": "Symbols"
+=======
+    "emoji": "⚓️"
+  , "unicodes": [
+      "⚓"
+    ]
+  , "description": "anchor"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "clubs"
     ]
@@ -13697,9 +13878,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇧🇧"
   , "description": "Barbados"
   , "category": "Flags"
+=======
+    "emoji": "⛽️"
+  , "unicodes": [
+      "⛽"
+    , "⛽︎"
+    ]
+  , "description": "fuel pump"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "barbados"
     ]
@@ -14348,9 +14538,18 @@
   , "ios_version": "9.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇫🇴"
   , "description": "Faroe Islands"
   , "category": "Flags"
+=======
+    "emoji": "⏪"
+  , "unicodes": [
+      "⏪︎"
+    , "⏪️"
+    ]
+  , "description": "black left-pointing double triangle"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "faroe_islands"
     ]
@@ -14360,9 +14559,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇫🇯"
   , "description": "Fiji"
   , "category": "Flags"
+=======
+    "emoji": "⏩"
+  , "unicodes": [
+      "⏩︎"
+    , "⏩️"
+    ]
+  , "description": "black right-pointing double triangle"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "fiji"
     ]
@@ -14372,9 +14580,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇫🇮"
   , "description": "Finland"
   , "category": "Flags"
+=======
+    "emoji": "⏫"
+  , "unicodes": [
+      "⏫︎"
+    , "⏫️"
+    ]
+  , "description": "black up-pointing double triangle"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "finland"
     ]
@@ -14384,9 +14601,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇫🇷"
   , "description": "France"
   , "category": "Flags"
+=======
+    "emoji": "⏬"
+  , "unicodes": [
+      "⏬︎"
+    , "⏬️"
+    ]
+  , "description": "black down-pointing double triangle"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "fr"
     ]
@@ -14568,9 +14794,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇬🇹"
   , "description": "Guatemala"
   , "category": "Flags"
+=======
+    "emoji": "🈯️"
+  , "unicodes": [
+      "🈯"
+    , "🈯︎"
+    ]
+  , "description": "squared cjk unified ideograph-6307"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "guatemala"
     ]
@@ -14580,9 +14815,14 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇬🇬"
   , "description": "Guernsey"
   , "category": "Flags"
+=======
+    "emoji": "🈳"
+  , "description": "squared cjk unified ideograph-7a7a"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "guernsey"
     ]
@@ -14592,9 +14832,14 @@
   , "ios_version": "9.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇬🇳"
   , "description": "Guinea"
   , "category": "Flags"
+=======
+    "emoji": "🈵"
+  , "description": "squared cjk unified ideograph-6e80"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "guinea"
     ]
@@ -14604,9 +14849,14 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇬🇼"
   , "description": "Guinea-Bissau"
   , "category": "Flags"
+=======
+    "emoji": "🈴"
+  , "description": "squared cjk unified ideograph-5408"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "guinea_bissau"
     ]
@@ -14616,9 +14866,14 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇬🇾"
   , "description": "Guyana"
   , "category": "Flags"
+=======
+    "emoji": "🈲"
+  , "description": "squared cjk unified ideograph-7981"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "guyana"
     ]
@@ -14640,9 +14895,14 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇭🇳"
   , "description": "Honduras"
   , "category": "Flags"
+=======
+    "emoji": "🈹"
+  , "description": "squared cjk unified ideograph-5272"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "honduras"
     ]
@@ -14652,9 +14912,14 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇭🇰"
   , "description": "Hong Kong SAR China"
   , "category": "Flags"
+=======
+    "emoji": "🈺"
+  , "description": "squared cjk unified ideograph-55b6"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "hong_kong"
     ]
@@ -14664,9 +14929,14 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇭🇺"
   , "description": "Hungary"
   , "category": "Flags"
+=======
+    "emoji": "🈶"
+  , "description": "squared cjk unified ideograph-6709"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "hungary"
     ]
@@ -14676,9 +14946,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇮🇸"
   , "description": "Iceland"
   , "category": "Flags"
+=======
+    "emoji": "🈚️"
+  , "unicodes": [
+      "🈚"
+    , "🈚︎"
+    ]
+  , "description": "squared cjk unified ideograph-7121"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "iceland"
     ]
@@ -14785,9 +15064,17 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇨🇮"
   , "description": "Côte d’Ivoire"
   , "category": "Flags"
+=======
+    "emoji": "♿️"
+  , "unicodes": [
+      "♿"
+    ]
+  , "description": "wheelchair symbol"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "cote_divoire"
     ]
@@ -14810,9 +15097,14 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇯🇵"
   , "description": "Japan"
   , "category": "Flags"
+=======
+    "emoji": "🈷"
+  , "description": "squared cjk unified ideograph-6708"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "jp"
     ]
@@ -14823,9 +15115,14 @@
   , "ios_version": "6.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇯🇪"
   , "description": "Jersey"
   , "category": "Flags"
+=======
+    "emoji": "🈸"
+  , "description": "squared cjk unified ideograph-7533"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "jersey"
     ]
@@ -15075,9 +15372,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇲🇾"
   , "description": "Malaysia"
   , "category": "Flags"
+=======
+    "emoji": "⛔️"
+  , "unicodes": [
+      "⛔"
+    , "⛔︎"
+    ]
+  , "description": "no entry"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "malaysia"
     ]
@@ -15111,9 +15417,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇲🇹"
   , "description": "Malta"
   , "category": "Flags"
+=======
+    "emoji": "❎"
+  , "unicodes": [
+      "❎︎"
+    , "❎️"
+    ]
+  , "description": "negative squared cross mark"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "malta"
     ]
@@ -15123,9 +15438,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇲🇭"
   , "description": "Marshall Islands"
   , "category": "Flags"
+=======
+    "emoji": "✅"
+  , "unicodes": [
+      "✅︎"
+    , "✅️"
+    ]
+  , "description": "white heavy check mark"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "marshall_islands"
     ]
@@ -15255,9 +15579,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇲🇸"
   , "description": "Montserrat"
   , "category": "Flags"
+=======
+    "emoji": "➿"
+  , "unicodes": [
+      "➿️"
+    ]
+  , "description": "double curly loop"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "montserrat"
     ]
@@ -15279,9 +15611,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇲🇿"
   , "description": "Mozambique"
   , "category": "Flags"
+=======
+    "emoji": "♈️"
+  , "unicodes": [
+      "♈"
+    ]
+  , "description": "aries"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "mozambique"
     ]
@@ -15291,9 +15631,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇲🇲"
   , "description": "Myanmar (Burma)"
   , "category": "Flags"
+=======
+    "emoji": "♉️"
+  , "unicodes": [
+      "♉"
+    ]
+  , "description": "taurus"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "myanmar"
     ]
@@ -15304,9 +15652,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇦"
   , "description": "Namibia"
   , "category": "Flags"
+=======
+    "emoji": "♊️"
+  , "unicodes": [
+      "♊"
+    ]
+  , "description": "gemini"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "namibia"
     ]
@@ -15316,9 +15672,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇷"
   , "description": "Nauru"
   , "category": "Flags"
+=======
+    "emoji": "♋️"
+  , "unicodes": [
+      "♋"
+    ]
+  , "description": "cancer"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "nauru"
     ]
@@ -15328,9 +15692,17 @@
   , "ios_version": "9.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇵"
   , "description": "Nepal"
   , "category": "Flags"
+=======
+    "emoji": "♌️"
+  , "unicodes": [
+      "♌"
+    ]
+  , "description": "leo"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "nepal"
     ]
@@ -15340,9 +15712,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇱"
   , "description": "Netherlands"
   , "category": "Flags"
+=======
+    "emoji": "♍️"
+  , "unicodes": [
+      "♍"
+    ]
+  , "description": "virgo"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "netherlands"
     ]
@@ -15352,9 +15732,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇨"
   , "description": "New Caledonia"
   , "category": "Flags"
+=======
+    "emoji": "♎️"
+  , "unicodes": [
+      "♎"
+    ]
+  , "description": "libra"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "new_caledonia"
     ]
@@ -15364,9 +15752,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇿"
   , "description": "New Zealand"
   , "category": "Flags"
+=======
+    "emoji": "♏️"
+  , "unicodes": [
+      "♏"
+    ]
+  , "description": "scorpius"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "new_zealand"
     ]
@@ -15376,9 +15772,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇮"
   , "description": "Nicaragua"
   , "category": "Flags"
+=======
+    "emoji": "♐️"
+  , "unicodes": [
+      "♐"
+    ]
+  , "description": "sagittarius"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "nicaragua"
     ]
@@ -15388,9 +15792,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇪"
   , "description": "Niger"
   , "category": "Flags"
+=======
+    "emoji": "♑️"
+  , "unicodes": [
+      "♑"
+    ]
+  , "description": "capricorn"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "niger"
     ]
@@ -15400,9 +15812,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇬"
   , "description": "Nigeria"
   , "category": "Flags"
+=======
+    "emoji": "♒️"
+  , "unicodes": [
+      "♒"
+    ]
+  , "description": "aquarius"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "nigeria"
     ]
@@ -15412,9 +15832,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇺"
   , "description": "Niue"
   , "category": "Flags"
+=======
+    "emoji": "♓️"
+  , "unicodes": [
+      "♓"
+    ]
+  , "description": "pisces"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "niue"
     ]
@@ -15424,9 +15852,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇳🇫"
   , "description": "Norfolk Island"
   , "category": "Flags"
+=======
+    "emoji": "⛎"
+  , "unicodes": [
+      "⛎︎"
+    , "⛎️"
+    ]
+  , "description": "ophiuchus"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "norfolk_island"
     ]
@@ -15496,9 +15933,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇵🇼"
   , "description": "Palau"
   , "category": "Flags"
+=======
+    "emoji": "©"
+  , "unicodes": [
+      "©️"
+    ]
+  , "description": "copyright sign"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "palau"
     ]
@@ -15508,9 +15953,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇵🇸"
   , "description": "Palestinian Territories"
   , "category": "Flags"
+=======
+    "emoji": "®"
+  , "unicodes": [
+      "®️"
+    ]
+  , "description": "registered sign"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "palestinian_territories"
     ]
@@ -15520,9 +15973,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇵🇦"
   , "description": "Panama"
   , "category": "Flags"
+=======
+    "emoji": "™"
+  , "unicodes": [
+      "™️"
+    ]
+  , "description": "trade mark sign"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "panama"
     ]
@@ -15532,9 +15993,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇵🇬"
   , "description": "Papua New Guinea"
   , "category": "Flags"
+=======
+    "emoji": "❌"
+  , "unicodes": [
+      "❌︎"
+    , "❌️"
+    ]
+  , "description": "cross mark"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "papua_new_guinea"
     ]
@@ -15568,9 +16038,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇵🇭"
   , "description": "Philippines"
   , "category": "Flags"
+=======
+    "emoji": "❗️"
+  , "unicodes": [
+      "❗"
+    , "❗︎"
+    ]
+  , "description": "heavy exclamation mark symbol"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "philippines"
     ]
@@ -15580,9 +16059,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇵🇳"
   , "description": "Pitcairn Islands"
   , "category": "Flags"
+=======
+    "emoji": "❓"
+  , "unicodes": [
+      "❓︎"
+    , "❓️"
+    ]
+  , "description": "black question mark ornament"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "pitcairn_islands"
     ]
@@ -15592,9 +16080,18 @@
   , "ios_version": "9.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇵🇱"
   , "description": "Poland"
   , "category": "Flags"
+=======
+    "emoji": "❕"
+  , "unicodes": [
+      "❕︎"
+    , "❕️"
+    ]
+  , "description": "white exclamation mark ornament"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "poland"
     ]
@@ -15604,9 +16101,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇵🇹"
   , "description": "Portugal"
   , "category": "Flags"
+=======
+    "emoji": "❔"
+  , "unicodes": [
+      "❔︎"
+    , "❔️"
+    ]
+  , "description": "white question mark ornament"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "portugal"
     ]
@@ -15616,9 +16122,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇵🇷"
   , "description": "Puerto Rico"
   , "category": "Flags"
+=======
+    "emoji": "⭕️"
+  , "unicodes": [
+      "⭕"
+    , "⭕︎"
+    ]
+  , "description": "heavy large circle"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "puerto_rico"
     ]
@@ -16003,9 +16518,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇸🇩"
   , "description": "Sudan"
   , "category": "Flags"
+=======
+    "emoji": "➕"
+  , "unicodes": [
+      "➕︎"
+    , "➕️"
+    ]
+  , "description": "heavy plus sign"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "sudan"
     ]
@@ -16015,9 +16539,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇸🇷"
   , "description": "Suriname"
   , "category": "Flags"
+=======
+    "emoji": "➖"
+  , "unicodes": [
+      "➖︎"
+    , "➖️"
+    ]
+  , "description": "heavy minus sign"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "suriname"
     ]
@@ -16027,9 +16560,18 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇸🇿"
   , "description": "Swaziland"
   , "category": "Flags"
+=======
+    "emoji": "➗"
+  , "unicodes": [
+      "➗︎"
+    , "➗️"
+    ]
+  , "description": "heavy division sign"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "swaziland"
     ]
@@ -16159,9 +16701,18 @@
   , "ios_version": "9.0"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇹🇴"
   , "description": "Tonga"
   , "category": "Flags"
+=======
+    "emoji": "➰"
+  , "unicodes": [
+      "➰︎"
+    , "➰️"
+    ]
+  , "description": "curly loop"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "tonga"
     ]
@@ -16171,9 +16722,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇹🇹"
   , "description": "Trinidad & Tobago"
   , "category": "Flags"
+=======
+    "emoji": "〰"
+  , "unicodes": [
+      "〰️"
+    ]
+  , "description": "wavy dash"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "trinidad_tobago"
     ]
@@ -16232,9 +16791,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇹🇻"
   , "description": "Tuvalu"
   , "category": "Flags"
+=======
+    "emoji": "◾️"
+  , "unicodes": [
+      "◾"
+    ]
+  , "description": "black medium small square"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "tuvalu"
     ]
@@ -16244,9 +16811,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇺🇬"
   , "description": "Uganda"
   , "category": "Flags"
+=======
+    "emoji": "◽️"
+  , "unicodes": [
+      "◽"
+    ]
+  , "description": "white medium small square"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "uganda"
     ]
@@ -16322,9 +16897,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇺🇾"
   , "description": "Uruguay"
   , "category": "Flags"
+=======
+    "emoji": "⚫️"
+  , "unicodes": [
+      "⚫"
+    ]
+  , "description": "medium black circle"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "uruguay"
     ]
@@ -16334,9 +16917,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇺🇿"
   , "description": "Uzbekistan"
   , "category": "Flags"
+=======
+    "emoji": "⚪️"
+  , "unicodes": [
+      "⚪"
+    ]
+  , "description": "medium white circle"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "uzbekistan"
     ]
@@ -16382,9 +16973,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇻🇳"
   , "description": "Vietnam"
   , "category": "Flags"
+=======
+    "emoji": "⬜️"
+  , "unicodes": [
+      "⬜"
+    ]
+  , "description": "white large square"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "vietnam"
     ]
@@ -16394,9 +16993,17 @@
   , "ios_version": "8.3"
   }
 , {
+<<<<<<< HEAD
     "emoji": "🇼🇫"
   , "description": "Wallis & Futuna"
   , "category": "Flags"
+=======
+    "emoji": "⬛️"
+  , "unicodes": [
+      "⬛"
+    ]
+  , "description": "black large square"
+>>>>>>> github/2.0-stable
   , "aliases": [
       "wallis_futuna"
     ]

@@ -13,7 +13,10 @@
 <script>
   const VARIATION_SELECTOR_15 = String.fromCharCode(0xfe0e);
   const VARIATION_SELECTOR_16 = String.fromCharCode(0xfe0f);
+<<<<<<< HEAD
   const EMOJI_SIZE = 32
+=======
+>>>>>>> github/2.0-stable
 
   function detectAliases(db) {
     for (var i = 0; i < db.length; ++i) {
@@ -23,6 +26,7 @@
         continue;
       }
 
+<<<<<<< HEAD
       if (raw.indexOf(VARIATION_SELECTOR_16) > -1) {
         var candidates = [raw.replace(VARIATION_SELECTOR_16, ""), raw];
       } else {
@@ -31,6 +35,25 @@
 
       var aliases = candidates.filter(isColorEmoji);
       emoji.emoji = aliases[0];
+=======
+      var candidates = [];
+
+      if (raw.length === 1) {
+        candidates.push(raw + VARIATION_SELECTOR_15);
+        candidates.push(raw + VARIATION_SELECTOR_16);
+      } else if (raw[raw.length - 1] === VARIATION_SELECTOR_16) {
+        var base = raw.substr(0, raw.length - 1);
+        candidates.push(base);
+        candidates.push(base + VARIATION_SELECTOR_15);
+      }
+
+      var aliases = candidates.filter(isColorEmoji);
+      if (aliases.length) {
+        emoji.unicodes = aliases;
+      } else {
+        delete emoji.unicodes;
+      }
+>>>>>>> github/2.0-stable
     }
 
     dump(db);
@@ -44,6 +67,7 @@
   }
 
   var canvas = document.createElement("canvas");
+<<<<<<< HEAD
   canvas.width = canvas.height = EMOJI_SIZE;
 
   function color(emoji, rgb) {
@@ -54,6 +78,16 @@
     context.font = EMOJI_SIZE+"px Arial";
     context.fillText(emoji, 0, 0);
     var data = context.getImageData(0, 0, EMOJI_SIZE, EMOJI_SIZE).data;
+=======
+  function color(emoji, rgb) {
+    var context = canvas.getContext("2d");
+    context.clearRect(0, 0, 32, 32);
+    context.fillStyle = rgb;
+    context.textBaseline = "top";
+    context.font = "32px Arial";
+    context.fillText(emoji, 0, 0);
+    var data = context.getImageData(0, 0, 32, 32).data;
+>>>>>>> github/2.0-stable
     for (var i = 0; i < data.length; i += 4) {
       if (data[i] === 0 && data[i + 1] === 0 && data[i + 2] === 0) {
         continue;

@@ -52,14 +52,24 @@ end
 trap(:PIPE) { abort }
 
 items = []
+<<<<<<< HEAD
 variation_codepoint = Emoji::VARIATION_SELECTOR_16.codepoints[0]
+=======
+variation = "\u{fe0f}".freeze
+
+>>>>>>> github/2.0-stable
 
 for emoji in Emoji.all
   item = {}
 
   unless emoji.custom?
     chars = emoji.raw.codepoints.map { |code| UnicodeCharacter.fetch(code) unless code == variation_codepoint }.compact
+<<<<<<< HEAD
     item[:emoji] = emoji.raw
+=======
+    item[:emoji] = unicodes.shift
+    item[:unicodes] = unicodes if unicodes.any?
+>>>>>>> github/2.0-stable
     item[:description] = chars.map(&:description).join(' + ')
   end
 
